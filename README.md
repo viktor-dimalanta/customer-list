@@ -15,3 +15,8 @@ create local database
 
 **php -S localhost:8080 -t public/**
 
+**HOW TO RUN THE PROJECT**
+
+Lumen
+Doctrine
+random-user API
