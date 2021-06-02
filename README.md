@@ -1,4 +1,4 @@
-HOW TO RUN THE PROJECT
+**HOW TO RUN THE PROJECT**
 
 required PHP 7.4 to 8.0 version
 
@@ -13,5 +13,5 @@ create local database
 - flexi_source
 - migrate
 
-php -S localhost:8080 -t public/
+**php -S localhost:8080 -t public/**
 
